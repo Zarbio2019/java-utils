@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e911f722-5da4-47e2-8ed7-65f567d0602d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/mapper/UpdateAutomaticPaymentMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/mapper/UpdateAutomaticPaymentMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/transactions/PARET003-01-PE/src/main/java/com/bbva/pare/PARET00301PETransaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/transactions/PARET003-01-PE/src/main/java/com/bbva/pare/PARET00301PETransaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_database_automatic_payment/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_database_automatic_payment/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_notifications_receipts/PRCHRNTR/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_notifications_receipts/PRCHRNTR/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_notifications_receipts/PRCHRNTRIMPL/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_notifications_receipts/PRCHRNTRIMPL/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/TestLifeCyclePerClassDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/TestLifeCyclePerClassDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/src/com/appsdeveloperblog/io/UsersDatabaseMapImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/src/com/appsdeveloperblog/io/UsersDatabaseMapImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/src/com/appsdeveloperblog/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/src/com/appsdeveloperblog/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/test/com/appsdeveloperblog/service/UserServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/test/com/appsdeveloperblog/service/UserServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/main/java/com/programming/techie/springredditclone/exceptions/SpringRedditException.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/main/java/com/programming/techie/springredditclone/exceptions/SpringRedditException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/controller/PostControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/controller/PostControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/repository/PostRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/repository/PostRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/repository/UserRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/repository/UserRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/repository/UserRepositoryTestEmbedded.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/repository/UserRepositoryTestEmbedded.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/service/CommentServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/service/CommentServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/service/PostServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/service/PostServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\WODZAROD\.m2\repository" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="C:\Users\WODZAROD\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2kc738AnHgofDh6zrb6CESBxA39" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ROMULO/JOBS/TCS/BBVA/APX/source/ppan-preagreements/lib_proposals_participants&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ROMULO\JOBS\TCS\BBVA\APX\source\ppgs-app de contratacion digital activos\dto_proposal_participants\src\main\java\com\bbva\ppgs\dto\proposalparticipants" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ROMULO\PROJECTS\tech\backend\java\utils\designPatterns\src\main\java\org\builder" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bbva.ppgs.dto.proposalparticipants" />
+      <recent name="com.bbva.ppgs.lib.rp20.utils" />
+      <recent name="com.bbva.ppgs.lib.rcrm.utils" />
+      <recent name="com.bbva.ppgs.dto.modifyparticipant.crm" />
+      <recent name="org.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PPGSRP21ParentTest">
+    <configuration name="PARER003Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PARER003IMPL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bbva.pare.lib.r003.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bbva.pare.lib.r003" />
+      <option name="MAIN_CLASS_NAME" value="com.bbva.pare.lib.r003.PARER003Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PARER003Test.executeDeactivedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PARER003IMPL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bbva.pare.lib.r003.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bbva.pare.lib.r003" />
+      <option name="MAIN_CLASS_NAME" value="com.bbva.pare.lib.r003.PARER003Test" />
+      <option name="METHOD_NAME" value="executeDeactivedTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PARER003Test.executeGetAffiliationData_thenEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PARER003IMPL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bbva.pare.lib.r003.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bbva.pare.lib.r003" />
+      <option name="MAIN_CLASS_NAME" value="com.bbva.pare.lib.r003.PARER003Test" />
+      <option name="METHOD_NAME" value="executeGetAffiliationData_thenEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PPGSRP21ParentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PPGSRP21IMPL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bbva.ppgs.lib.rp21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bbva.ppgs.lib.rp21" />
+      <option name="MAIN_CLASS_NAME" value="com.bbva.ppgs.lib.rp21.PPGSRP21ParentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParticipantsValidatorsCreateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PPGSRP22IMPL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bbva.ppgs.lib.rp22.validator.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bbva.ppgs.lib.rp22.validator.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.bbva.ppgs.lib.rp22.validator.impl.ParticipantsValidatorsCreateTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PPGSRP21ParentTest" />
+        <item itemvalue="JUnit.ParticipantsValidatorsCreateTest" />
+        <item itemvalue="JUnit.PARER003Test.executeDeactivedTest" />
+        <item itemvalue="JUnit.PARER003Test" />
+        <item itemvalue="JUnit.PARER003Test.executeGetAffiliationData_thenEmpty" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e911f722-5da4-47e2-8ed7-65f567d0602d" name="Changes" comment="" />
+      <created>1723570811305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723570811305</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/PHIAR041IMPL/src/main/java/com/bbva/phia/lib/r041/mapper/GenerateCardOfferMapper.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/PHIAR041IMPL/src/main/java/com/bbva/phia/lib/r041/impl/PHIAR041Impl.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/PHIAR041IMPL/src/main/java/com/bbva/phia/lib/r041/strategy/CardProductsPersonRateSetStrategyImpl.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/PHIAR041IMPL/src/main/java/com/bbva/phia/lib/r041/strategy/CardProductsPersonRateSetStrategyImpl.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/PHIAR041IMPL/src/test/java/com/bbva/phia/lib/r041/strategy/CardProductsStrategyPersonRateSetTest.java</url>
+          <line>166</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/PHIAR041IMPL/src/test/java/com/bbva/phia/lib/r041/strategy/CardProductsStrategyPersonRateSetTest.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/PHIAR041IMPL/src/test/java/com/bbva/phia/lib/r041/strategy/CardProductsStrategyPersonRateSetTest.java</url>
+          <line>214</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/PHIAR041IMPL/src/test/java/com/bbva/phia/lib/r041/strategy/CardProductsStrategyTest.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/PHIAR041IMPL/src/main/java/com/bbva/phia/lib/r041/strategy/CardProductsPersonRateSetStrategyImpl.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/PHIAR041IMPL/src/main/java/com/bbva/phia/lib/r041/strategy/CardProductsPersonRateSetStrategyImpl.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/PHIAR041IMPL/src/test/java/com/bbva/phia/lib/r041/strategy/CardProductsStrategyPersonRateSetTest.java</url>
+          <line>201</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/PHIAR041IMPL/src/main/java/com/bbva/phia/lib/r041/strategy/CardProductsPersonRateSetStrategyImpl.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/PHIAR041IMPL/src/main/java/com/bbva/phia/lib/r041/strategy/CardProductsPersonRateSetStrategyImpl.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basics/src/main/java/org/ValidationUtil.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basics/src/main/java/org/ValidationUtil.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basics/src/main/java/org/ValidationUtil.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basics/src/main/java/org/ValidationUtil.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basics/src/main/java/org/enums/DocumentType.java</url>
+          <line>135</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basics/src/main/java/org/OthersUtils.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dsa/src/main/java/org/arrays/ArrayUtil.java</url>
+          <line>360</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dsa/src/main/java/org/arrays/ArrayUtil.java</url>
+          <line>325</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basics/src/main/java/org/SyntaxUtil.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basics/src/main/java/org/enums/DocumentType.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basics/src/main/java/org/functionalProgramming/StreamsUtil.java</url>
+          <line>303</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRP20IMPL/src/main/java/com/bbva/ppgs/lib/rp20/impl/PPGSRP20Impl.java</url>
+          <line>168</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRCRMIMPL/src/test/java/com/bbva/ppgs/lib/rcrm/mapper/CreateCustomersFormsPostMapperTest.java</url>
+          <line>194</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dsa/src/main/java/org/strings/StringUtil.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dsa/src/main/java/org/arrays/ArrayUtil.java</url>
+          <line>317</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRP20IMPL/src/test/java/com/bbva/ppgs/lib/rp20/PPGSRP20Test.java</url>
+          <line>1298</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRCRMIMPL/src/test/java/com/bbva/ppgs/lib/rcrm/mapper/CreateCustomersFormsPostMapperTest.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRCRMIMPL/src/main/java/com/bbva/ppgs/lib/rcrm/impl/PPGSRCRMImpl.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basics/src/main/java/org/DateUtil.java</url>
+          <line>246</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRCRMIMPL/src/main/java/com/bbva/ppgs/lib/rcrm/mapper/CreateCustomersFormsPostMapper.java</url>
+          <line>144</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRP20IMPL/src/test/java/com/bbva/ppgs/lib/rp20/strategy/NonCustomerStrategyTest.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRP20IMPL/src/main/java/com/bbva/ppgs/lib/rp20/strategy/impl/NonCustomerStrategyImpl.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRP20IMPL/src/main/java/com/bbva/ppgs/lib/rp20/strategy/impl/NonCustomerStrategyImpl.java</url>
+          <line>160</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRCRMIMPL/src/test/java/com/bbva/ppgs/lib/rcrm/mapper/CreateCustomersFormsPostMapperTest.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRP20IMPL/src/test/java/com/bbva/ppgs/lib/rp20/PPGSRP20Test.java</url>
+          <line>360</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppan-preagreements/lib_proposals_participants/PPANRPPTIMPL/src/main/java/com/bbva/ppan/lib/rppt/impl/service/mapper/ModifyPartialParticipantProposalMapper.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppan-preagreements/lib_proposals_participants/PPANRPPTIMPL/src/main/java/com/bbva/ppan/lib/rppt/impl/service/mapper/ModifyPartialParticipantProposalMapper.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppan-preagreements/lib_proposals_participants/PPANRPPTIMPL/src/main/java/com/bbva/ppan/lib/rppt/impl/service/mapper/ModifyPartialParticipantProposalMapper.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppan-preagreements/lib_proposals_participants/PPANRPPTIMPL/src/main/java/com/bbva/ppan/lib/rppt/impl/service/mapper/ModifyPartialParticipantProposalMapper.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRP20IMPL/src/main/java/com/bbva/ppgs/lib/rp20/mapper/ModifyPartialParticipantProposalMapper.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRP20IMPL/src/main/java/com/bbva/ppgs/lib/rp20/mapper/ModifyPartialParticipantProposalMapper.java</url>
+          <line>162</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppan-preagreements/lib_proposals_participants/PPANRPPTIMPL/src/main/java/com/bbva/ppan/lib/rppt/impl/dao/ParticipantProposallDAO.java</url>
+          <line>238</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRP20IMPL/src/main/java/com/bbva/ppgs/lib/rp20/impl/PPGSRP20Impl.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRP20IMPL/src/test/java/com/bbva/ppgs/lib/rp20/strategy/CustomerStrategyTest.java</url>
+          <line>159</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRP20IMPL/src/main/java/com/bbva/ppgs/lib/rp20/impl/PPGSRP20Impl.java</url>
+          <line>130</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRCRMIMPL/src/main/java/com/bbva/ppgs/lib/rcrm/mapper/CreateCustomersFormsPostMapper.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRP20IMPL/src/main/java/com/bbva/ppgs/lib/rp20/validator/impl/ParticipantsValidators.java</url>
+          <line>203</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRP20IMPL/src/main/java/com/bbva/ppgs/lib/rp20/impl/PPGSRP20Impl.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRP20IMPL/src/main/java/com/bbva/ppgs/lib/rp20/validator/impl/ParticipantsValidators.java</url>
+          <line>225</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/mapper/UpdateCreditCreateMapper.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_database_automatic_payment/PRCHRDA1IMPL/src/main/java/com/bbva/prch/lib/rda1/impl/PRCHRDA1Impl.java</url>
+          <line>134</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/test/java/com/bbva/pare/lib/r003/PARER003Test.java</url>
+          <line>654</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/com/bbva/pare/lib/r003/impl/PARER003Impl.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/test/java/com/bbva/pare/lib/r003/PARER003Test.java</url>
+          <line>200</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/mapper/UpdateAutomaticPaymentMapper.java</url>
+          <line>419</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/com/bbva/pare/lib/r003/impl/PARER003Impl.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/mapper/UpdateAutomaticPaymentMapper.java</url>
+          <line>392</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/mapper/UpdateAutomaticPaymentMapper.java</url>
+          <line>378</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/com/bbva/pare/lib/r003/impl/PARER003Impl.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/com/bbva/pare/lib/r003/impl/PARER003Impl.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/PHIAR041IMPL/src/test/java/com/bbva/phia/lib/r041/strategy/CardProductsStrategyPersonRateSetTest.java</url>
+          <line>172</line>
+          <properties class="com.bbva.phia.lib.r041.strategy.CardProductsStrategyPersonRateSetTest" method="getList_whenResponseSimulateProposalDataIsEmpty_thenEmptyOk">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.bbva.ppgs.dto.modifyparticipant.ParticipantInformationDTO" memberName="address" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/utils$CardProductsStrategyPersonRateSetTest.ic" NAME="CardProductsStrategyPersonRateSetTest Coverage Results" MODIFIED="1723736337978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bbva.phia.lib.r041.strategy.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/utils$CreateCustomersFormsPostMapperTest.ic" NAME="CreateCustomersFormsPostMapperTest Coverage Results" MODIFIED="1724678723558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bbva.ppgs.lib.rcrm.mapper.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/utils$PRCHRDA1Test.ic" NAME="PRCHRDA1Test Coverage Results" MODIFIED="1725905906280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bbva.prch.lib.rda1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/utils$PPGSRP20Test.ic" NAME="PPGSRP20Test Coverage Results" MODIFIED="1724885604724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bbva.ppgs.lib.rp20.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/utils$PARER003Test.ic" NAME="PARER003Test Coverage Results" MODIFIED="1725969506006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bbva.pare.lib.r003.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/utils$CustomerStrategyTest.ic" NAME="CustomerStrategyTest Coverage Results" MODIFIED="1724945116574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bbva.ppgs.lib.rp20.strategy.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/utils$ValidatorUtilsTest.ic" NAME="ValidatorUtilsTest Coverage Results" MODIFIED="1724600189909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bbva.ppgs.lib.rp20.utils.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/utils$PRCHRDA1Test_executeUpdateAutomaticPaymentDesaffiliation_thenDuplicateKeyException.ic" NAME="PRCHRDA1Test.executeUpdateAutomaticPaymentDesaffiliation_thenDuplicateKeyException Coverage Results" MODIFIED="1725904566328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bbva.prch.lib.rda1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/utils$PPGSRP20Test_executeModifyParticipantTest_whenNonCustomer_thenOk.ic" NAME="PPGSRP20Test.executeModifyParticipantTest_whenNonCustomer_thenOk Coverage Results" MODIFIED="1724885254395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bbva.ppgs.lib.rp20.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/utils$ParticipantsValidatorsTest.ic" NAME="ParticipantsValidatorsTest Coverage Results" MODIFIED="1724884759906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bbva.ppgs.lib.rp20.validator.impl.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/utils$ArrayUtil.ic" NAME="ArrayUtil Coverage Results" MODIFIED="1724111677045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.arrays.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/utils$NonCustomerStrategyTest.ic" NAME="NonCustomerStrategyTest Coverage Results" MODIFIED="1724945693768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bbva.ppgs.lib.rp20.strategy.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/utils$UtilsTest.ic" NAME="UtilsTest Coverage Results" MODIFIED="1724799072845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bbva.ppgs.lib.rcrm.utils.*</FILTER>
+    </SUITE>
+  </component>
+</project>

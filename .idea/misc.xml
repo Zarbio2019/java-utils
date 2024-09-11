@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/onl_called_subscriber_process/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-exclutionfiltersvalidations/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppcu-procesos alta contra/apx-lib-noncustomer/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppcu-procesos alta contra/apx-lib-tokensesion/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_card_proposal/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppan-preagreements/lib_proposals_participants/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_list_proposal_participants/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_create_proposal_participant/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/dto_proposal_participants/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/dto_proposals/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_notifications_receipts/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_database_automatic_payment/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-exclutionfiltersvalidations/artifact/dtos/PHIAC001/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-exclutionfiltersvalidations/artifact/dtos/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-exclutionfiltersvalidations/artifact/libraries/PHIAR001/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-exclutionfiltersvalidations/artifact/libraries/PHIAR001IMPL/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-exclutionfiltersvalidations/artifact/libraries/PHIAR002/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-exclutionfiltersvalidations/artifact/libraries/PHIAR002IMPL/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-exclutionfiltersvalidations/artifact/libraries/PHIAR003/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-exclutionfiltersvalidations/artifact/libraries/PHIAR003IMPL/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-exclutionfiltersvalidations/artifact/libraries/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-exclutionfiltersvalidations/artifact/services/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-exclutionfiltersvalidations/artifact/transactions/PHIAT00101-PE/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-exclutionfiltersvalidations/artifact/transactions/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/dtos/PHIAC041/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/dtos/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/PHIAR041/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/PHIAR041IMPL/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/PHIAR042/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/PHIAR042IMPL/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/PHIAR043/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/PHIAR043IMPL/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/transactions/PHIAT021-01-PE/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/transactions/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/onl_called_subscriber_process/artifact/dtos/PHIAC051/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/onl_called_subscriber_process/artifact/dtos/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/onl_called_subscriber_process/artifact/libraries/PHIAR051/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/onl_called_subscriber_process/artifact/libraries/PHIAR051IMPL/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/onl_called_subscriber_process/artifact/libraries/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/onl_called_subscriber_process/artifact/transactions/PHIAT031-01-PE/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/onl_called_subscriber_process/artifact/transactions/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/onl_called_subscriber_process/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppan-preagreements/lib_proposals_participants/PPANRPPT/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppan-preagreements/lib_proposals_participants/PPANRPPTIMPL/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppcu-procesos alta contra/apx-lib-noncustomer/PPCUC031/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppcu-procesos alta contra/apx-lib-noncustomer/PPCUR031/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppcu-procesos alta contra/apx-lib-noncustomer/PPCUR031IMPL/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppcu-procesos alta contra/apx-lib-noncustomer/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppcu-procesos alta contra/apx-lib-tokensesion/PPCUC021/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppcu-procesos alta contra/apx-lib-tokensesion/PPCUR021/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppcu-procesos alta contra/apx-lib-tokensesion/PPCUR021IMPL/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppcu-procesos alta contra/apx-lib-tokensesion/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_card_proposal/artifact/dtos/PPGSC041/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_card_proposal/artifact/dtos/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_card_proposal/artifact/libraries/PPGSR040/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_card_proposal/artifact/libraries/PPGSR040IMPL/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_card_proposal/artifact/libraries/PPGSR041/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_card_proposal/artifact/libraries/PPGSR041IMPL/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_card_proposal/artifact/libraries/PPGSR042/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_card_proposal/artifact/libraries/PPGSR042IMPL/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_card_proposal/artifact/libraries/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_card_proposal/artifact/transactions/PPGST041-01-PE/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_card_proposal/artifact/transactions/PPGST042-01-PE/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_card_proposal/artifact/transactions/PPGST043-01-PE/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_card_proposal/artifact/transactions/PPGST044-01-PE/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_card_proposal/artifact/transactions/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_card_proposal/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_list_proposal_participants/artifact/dtos/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal/artifact/dtos/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal/artifact/libraries/PPGSRP15/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal/artifact/libraries/PPGSRP15IMPL/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal/artifact/libraries/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal/artifact/transactions/PPGSTP15-01-PE/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal/artifact/transactions/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/dtos/PPGSCP20/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/dtos/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRCRM/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRCRMIMPL/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRP20/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/PPGSRP20IMPL/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/transactions/PPGSTP20-01-PE/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/transactions/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK" />
+</project>

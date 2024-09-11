@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-exclutionfiltersvalidations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppan-preagreements/lib_proposals_participants" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/dto_proposal_participants" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/dto_proposals" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_create_proposal_participant" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_list_proposal_participants" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_database_automatic_payment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_notifications_receipts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone" vcs="Git" />
+  </component>
+</project>
