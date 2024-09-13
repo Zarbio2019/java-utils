@@ -5,24 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e911f722-5da4-47e2-8ed7-65f567d0602d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/mapper/UpdateAutomaticPaymentMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/mapper/UpdateAutomaticPaymentMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/transactions/PARET003-01-PE/src/main/java/com/bbva/pare/PARET00301PETransaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/transactions/PARET003-01-PE/src/main/java/com/bbva/pare/PARET00301PETransaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_database_automatic_payment/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_database_automatic_payment/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_notifications_receipts/PRCHRNTR/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_notifications_receipts/PRCHRNTR/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_notifications_receipts/PRCHRNTRIMPL/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_notifications_receipts/PRCHRNTRIMPL/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/TestLifeCyclePerClassDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/TestLifeCyclePerClassDemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/src/com/appsdeveloperblog/io/UsersDatabaseMapImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/src/com/appsdeveloperblog/io/UsersDatabaseMapImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/src/com/appsdeveloperblog/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/src/com/appsdeveloperblog/service/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/test/com/appsdeveloperblog/service/UserServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/test/com/appsdeveloperblog/service/UserServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/main/java/com/programming/techie/springredditclone/exceptions/SpringRedditException.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/main/java/com/programming/techie/springredditclone/exceptions/SpringRedditException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/controller/PostControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/controller/PostControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/repository/PostRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/repository/PostRepositoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/repository/UserRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/repository/UserRepositoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/repository/UserRepositoryTestEmbedded.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/repository/UserRepositoryTestEmbedded.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/service/CommentServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/service/CommentServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/service/PostServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/service/PostServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +26,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_list_proposal_participants" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -88,7 +74,7 @@
       <recent name="org.utils" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PPGSRP21ParentTest">
+  <component name="RunManager" selected="JUnit.PRCHRDA1Test">
     <configuration name="PARER003Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PARER003IMPL" />
       <extension name="coverage">
@@ -100,22 +86,6 @@
       <option name="PACKAGE_NAME" value="com.bbva.pare.lib.r003" />
       <option name="MAIN_CLASS_NAME" value="com.bbva.pare.lib.r003.PARER003Test" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PARER003Test.executeDeactivedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PARER003IMPL" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bbva.pare.lib.r003.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bbva.pare.lib.r003" />
-      <option name="MAIN_CLASS_NAME" value="com.bbva.pare.lib.r003.PARER003Test" />
-      <option name="METHOD_NAME" value="executeDeactivedTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -151,28 +121,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParticipantsValidatorsCreateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PPGSRP22IMPL" />
+    <configuration name="PRCHRDA1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PRCHRDA1IMPL" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bbva.ppgs.lib.rp22.validator.impl.*" />
+          <option name="PATTERN" value="com.bbva.prch.lib.rda1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bbva.ppgs.lib.rp22.validator.impl" />
-      <option name="MAIN_CLASS_NAME" value="com.bbva.ppgs.lib.rp22.validator.impl.ParticipantsValidatorsCreateTest" />
+      <option name="PACKAGE_NAME" value="com.bbva.prch.lib.rda1" />
+      <option name="MAIN_CLASS_NAME" value="com.bbva.prch.lib.rda1.PRCHRDA1Test" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PRCHRDA1Test.executeNoUpdateDesaffiliationCatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PRCHRDA1IMPL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bbva.prch.lib.rda1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bbva.prch.lib.rda1" />
+      <option name="MAIN_CLASS_NAME" value="com.bbva.prch.lib.rda1.PRCHRDA1Test" />
+      <option name="METHOD_NAME" value="executeNoUpdateDesaffiliationCatch" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PPGSRP21ParentTest" />
-        <item itemvalue="JUnit.ParticipantsValidatorsCreateTest" />
-        <item itemvalue="JUnit.PARER003Test.executeDeactivedTest" />
-        <item itemvalue="JUnit.PARER003Test" />
+        <item itemvalue="JUnit.PRCHRDA1Test" />
+        <item itemvalue="JUnit.PRCHRDA1Test.executeNoUpdateDesaffiliationCatch" />
         <item itemvalue="JUnit.PARER003Test.executeGetAffiliationData_thenEmpty" />
+        <item itemvalue="JUnit.PARER003Test" />
+        <item itemvalue="JUnit.PPGSRP21ParentTest" />
       </list>
     </recent_temporary>
   </component>
@@ -463,58 +449,43 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/mapper/UpdateCreditCreateMapper.java</url>
-          <line>62</line>
+          <line>58</line>
           <option name="timeStamp" value="185" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_database_automatic_payment/PRCHRDA1IMPL/src/main/java/com/bbva/prch/lib/rda1/impl/PRCHRDA1Impl.java</url>
-          <line>134</line>
-          <option name="timeStamp" value="190" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/test/java/com/bbva/pare/lib/r003/PARER003Test.java</url>
-          <line>654</line>
+          <line>618</line>
           <option name="timeStamp" value="192" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/com/bbva/pare/lib/r003/impl/PARER003Impl.java</url>
-          <line>106</line>
+          <line>97</line>
           <option name="timeStamp" value="196" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/test/java/com/bbva/pare/lib/r003/PARER003Test.java</url>
-          <line>200</line>
+          <line>199</line>
           <option name="timeStamp" value="198" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/mapper/UpdateAutomaticPaymentMapper.java</url>
-          <line>419</line>
-          <option name="timeStamp" value="202" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/com/bbva/pare/lib/r003/impl/PARER003Impl.java</url>
-          <line>71</line>
+          <line>70</line>
           <option name="timeStamp" value="203" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/mapper/UpdateAutomaticPaymentMapper.java</url>
-          <line>392</line>
-          <option name="timeStamp" value="204" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/mapper/UpdateAutomaticPaymentMapper.java</url>
-          <line>378</line>
-          <option name="timeStamp" value="205" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/com/bbva/pare/lib/r003/impl/PARER003Impl.java</url>
-          <line>105</line>
-          <option name="timeStamp" value="206" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/com/bbva/pare/lib/r003/impl/PARER003Impl.java</url>
-          <line>63</line>
+          <line>62</line>
           <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/com/bbva/pare/lib/r003/impl/PARER003Impl.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/artifact/libraries/PARER003IMPL/src/main/java/mapper/UpdateAutomaticPaymentMapper.java</url>
+          <line>348</line>
+          <option name="timeStamp" value="211" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/phia-proceso de evaluacion de riesgo/apx-cpnt-generatecardoffers/artifact/libraries/PHIAR041IMPL/src/test/java/com/bbva/phia/lib/r041/strategy/CardProductsStrategyPersonRateSetTest.java</url>
@@ -524,6 +495,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_database_automatic_payment/PRCHRDA1IMPL/src/test/java/com/bbva/prch/lib/rda1/PRCHRDA1Test.java</url>
+          <line>522</line>
+          <properties class="com.bbva.prch.lib.rda1.PRCHRDA1Test" method="executeNoUpdateDesaffiliationCatch">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="216" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -546,7 +526,7 @@
     <SUITE FILE_PATH="coverage/utils$PPGSRP20Test.ic" NAME="PPGSRP20Test Coverage Results" MODIFIED="1724885604724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.bbva.ppgs.lib.rp20.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/utils$PARER003Test.ic" NAME="PARER003Test Coverage Results" MODIFIED="1725969506006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/utils$PARER003Test.ic" NAME="PARER003Test Coverage Results" MODIFIED="1726068916730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.bbva.pare.lib.r003.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/utils$CustomerStrategyTest.ic" NAME="CustomerStrategyTest Coverage Results" MODIFIED="1724945116574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
