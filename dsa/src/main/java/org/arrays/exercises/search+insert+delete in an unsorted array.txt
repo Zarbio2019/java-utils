@@ -1,0 +1,240 @@
+// https://www.geeksforgeeks.org/search-insert-and-delete-in-an-unsorted-array/
+
+// Search in unsorted array
+/*
+- Approach: by linear traversal from the first element to the last element
+*/
+class Main  {
+	// search operation
+	static int findElement(int arr[], int n, int key)
+	{
+		for (int i = 0; i < n; i++)
+			if (arr[i] == key)
+				return i;
+ 
+		// If the key is not found
+		return -1;
+	}
+	
+	// Driver's Code
+    public static void main(String args[])
+    {
+        int arr[] = { 12, 34, 10, 6, 40 };
+        int n = arr.length;
+ 
+        // Using a last element as search element
+        int key = 40;
+       
+        // Function call
+        int position = findElement(arr, n, key);
+ 
+        if (position == -1)
+            System.out.println("Element not found");
+        else
+            System.out.println("Element Found at Position: "
+                               + (position + 1));
+    }
+}
+/*
+output:
+Element Found at Position: 5
+
+Time Complexity: O(N)
+Auxiliary Space: O(1)
+*/
+
+/***********************************************/
+
+// Insert at the end in unsorted array
+/*
+is faster compared to a sorted array because we don’t have to care about the position at which the element is to be placed.
+*/
+class Main  {
+	// Function to insert a given key in
+    // the array. This function returns n+1
+    // if insertion is successful, else n.
+    static int insertSorted(int arr[], int n, int key,
+                            int capacity)
+    {
+        // Cannot insert more elements if n
+        // is already more than or equal to
+        // capacity
+        if (n >= capacity)
+            return n;
+ 
+        arr[n] = key;
+ 
+        return (n + 1);
+    }
+ 
+    // Driver Code
+    public static void main(String[] args)
+    {
+        int[] arr = new int[20];
+        arr[0] = 12;
+        arr[1] = 16;
+        arr[2] = 20;
+        arr[3] = 40;
+        arr[4] = 50;
+        arr[5] = 70;
+        int capacity = 20;
+        int n = 6;
+        int i, key = 26;
+ 
+        System.out.print("Before Insertion: ");
+        for (i = 0; i < n; i++)
+            System.out.print(arr[i] + " ");
+ 
+        // Inserting key
+        n = insertSorted(arr, n, key, capacity);
+ 
+        System.out.print("\n After Insertion: ");
+        for (i = 0; i < n; i++)
+            System.out.print(arr[i] + " ");
+    }
+}
+/*
+output:
+Before Insertion: 12 16 20 40 50 70 
+After Insertion: 12 16 20 40 50 70 26 
+ 
+Time Complexity: O(1)
+Auxiliary Space: O(1)
+*/
+
+/***********************************************/
+
+// Insert at specific position in unsorted array
+/*
+shifting elements to the right of the required position.
+*/
+import java.io.*;
+
+class GFG {
+	static void insertElement(int arr[], int n, int x,
+							  int pos)
+	{
+		// shift elements to the right
+		// which are on the right side of pos
+		for (int i = n - 1; i >= pos; i--)
+			arr[i + 1] = arr[i];
+		arr[pos] = x;
+	}
+	
+	// get index of empty or 0 value of element array to insert
+	static int getIdxEmpty(int arr[])
+	{
+		for(int i = 0; i<arr.length; i++)
+		{
+			if(arr[i] == 0) // 0 = empty
+				return i;
+		}
+	}
+	
+	public static void main(String[] args)
+	{
+		int arr[] = new int[15];
+		arr[0] = 2;
+		arr[1] = 4;
+		arr[2] = 1;
+		arr[3] = 8;
+		arr[4] = 5;
+		int n = 5;
+		//n = getIdxEmpty(arr); // optional
+		
+		int x = 10, pos = 2;
+
+		System.out.print("Before Insertion: ");
+		for (int i = 0; i < n; i++)
+			System.out.print(arr[i] + " ");
+
+		// Inserting key at specific position
+		insertElement(arr, n, x, pos);
+		n += 1;
+
+		System.out.print("\n\nAfter Insertion: ");
+		for (int i = 0; i < n; i++)
+			System.out.print(arr[i] + " ");
+	}
+}
+/*
+output:
+Before insertion : 2 4 1 8 5 
+After insertion : 2 4 10 1 8 5
+ 
+Time Complexity: O(N)
+Auxiliary Space: O(1)
+*/
+
+/***********************************************/
+
+// Delete at specific position in unsorted array
+/*
+the element to be deleted is searched using the linear search,
+followed by shifting the elements. 
+*/
+class Main {
+	// function to search a key to
+	// be deleted
+	static int findElement(int arr[], int n, int key)
+	{
+		int i;
+		for (i = 0; i < n; i++)
+			if (arr[i] == key)
+				return i;
+
+		return -1;
+	}
+
+	// Function to delete an element
+	static int deleteElement(int arr[], int n, int key)
+	{
+		// Find position of element to be
+		// deleted
+		int pos = findElement(arr, n, key);
+
+		if (pos == -1) {
+			System.out.println("Element not found");
+			return n;
+		}
+
+		// Deleting element
+		int i;
+		for (i = pos; i < n - 1; i++)
+			arr[i] = arr[i + 1];
+
+		return n - 1;
+	}
+
+	// Driver's Code
+	public static void main(String args[])
+	{
+		int i;
+		int arr[] = { 10, 50, 30, 40, 20 };
+
+		int n = arr.length;
+		int key = 30;
+
+		System.out.println("Array before deletion");
+		for (i = 0; i < n; i++)
+			System.out.print(arr[i] + " ");
+		
+		// Function call
+		n = deleteElement(arr, n, key);
+
+		System.out.println("\n\nArray after deletion");
+		for (i = 0; i < n; i++)
+			System.out.print(arr[i] + " ");
+	}
+}
+/*
+output:
+Array before deletion
+10 50 30 40 20 
+
+Array after deletion
+10 50 40 20
+ 
+Time Complexity: O(N)
+Auxiliary Space: O(1)
+*/

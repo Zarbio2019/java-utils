@@ -1,0 +1,147 @@
+// reverse array
+// https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/
+
+/*
+- Iterative way: better solution
+1) Initialize start and end indexes as start = 0, end = n-1 
+2) In a loop, swap arr[start] with arr[end] and change start and end as follows : 
+start = start +1, end = end – 1
+*/
+public class GFG {
+	
+	// Function to reverse arr[] from start to end
+	static void reverseArray(int arr[], int start, int end)
+	{
+		int temp;
+		
+		while (start < end)
+		{
+			temp = arr[start];
+			arr[start] = arr[end];
+			arr[end] = temp;
+			start++;
+			end--;
+		}
+	}	
+	
+	// Utility that prints out an array on a line
+	static void printArray(int arr[], int size)
+	{
+		for (int i = 0; i < size; i++)
+			System.out.print(arr[i] + " ");
+		
+		System.out.println();
+	}
+
+	// Driver code
+	public static void main(String args[]) {
+		
+		int arr[] = {1, 2, 3, 4, 5, 6};
+		printArray(arr, 6);
+		reverseArray(arr, 0, 5);
+		System.out.print("Reversed array is \n");
+		printArray(arr, 6);
+		
+	}
+}
+/*
+output:
+1 2 3 4 5 6 
+Reversed array is 
+6 5 4 3 2 1
+
+Time Complexity: O(n)
+Auxiliary Space: O(1)
+*/
+
+/*
+- Iterative way
+*/
+public class GFG {
+	
+	static void reverseArray(int arr[])
+	{
+		int start = 0;
+		int end = arr.length - 1;
+        int temp;
+		
+		while (start < end) {
+			// Swap elements at start and end indexes
+			temp = arr[start];
+			arr[start] = arr[end];
+			arr[end] = temp;
+			
+			// Move towards the middle
+			start++;
+			end--;
+		}
+	}	
+
+	public static void main(String args[]) {
+		
+		int arr[] = {1, 2, 3, 4, 5};
+		System.out.println("Original Array: " + Arrays.toString(arr));
+
+        reverseArray(arr);
+        System.out.println("Reversed Array: " + Arrays.toString(arr));
+	}
+}
+/*
+output:
+Original Array: [1, 2, 3, 4, 5]
+Reversed Array: [5, 4, 3, 2, 1]
+
+Time Complexity: O(n), n = length of the array, uses a single loop that iterates through half of the array (from the start to the middle)
+Auxiliary Space: O(1), uses a constant amount of additional space. Regardless of the size of the input array, the solution only requires a fixed amount of space to store the temporary variable used for swapping elements (temp). The space usage does not depend on the input size, so it remains constant.
+
+If you were to create a copy of the array before reversing it, the auxiliary space complexity would be O(n), as it would require additional space to store the copied array.
+*/
+
+- Recursive way:
+1) Initialize start and end indexes as start = 0, end = n-1 
+2) Swap arr[start] with arr[end] 
+3) Recursively call reverse for rest of the array.
+*/
+import java.io.*;
+
+class ReverseArray {
+
+	// Function to reverse arr[] from start to end
+	static void reverseArray(int arr[], int start, int end)
+	{
+		int temp;
+		if (start >= end)
+			return;
+		temp = arr[start];
+		arr[start] = arr[end];
+		arr[end] = temp;
+		reverseArray(arr, start+1, end-1);
+	}
+
+	// Utility that prints out an array on a line
+	static void printArray(int arr[], int size)
+	{
+		for (int i=0; i < size; i++)
+			System.out.print(arr[i] + " ");
+		System.out.println("");
+	}
+
+	// Driver function to check for above functions
+	public static void main (String[] args) {
+		int arr[] = {1, 2, 3, 4, 5, 6};
+		printArray(arr, 6);
+		reverseArray(arr, 0, 5);
+		System.out.println("Reversed array is \n");
+		printArray(arr, 6);
+	}
+}
+/*
+output : 
+
+1 2 3 4 5 6 
+Reversed array is 
+6 5 4 3 2 1 
+
+Time Complexity: O(n)
+Auxiliary Space: O(n), because the recursion call stack, which grows with the input size.
+*/

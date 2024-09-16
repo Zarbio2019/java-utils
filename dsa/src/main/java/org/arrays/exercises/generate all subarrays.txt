@@ -1,0 +1,175 @@
+// https://www.geeksforgeeks.org/generating-subarrays-using-recursion/
+
+/*
+Generating subarrays using recursion
+
+Approach: We use two pointers start and end to maintain the starting and ending point of the array and follow the steps given below: 
+	- Stop if we have reached the end of the array
+	
+	- Increment the end index if start has become greater than end
+	
+	- Print the subarray from index start to end and increment the starting index
+*/
+class solution {
+
+	// Recursive function to print all possible subarrays
+	// for given array
+	static void printSubArrays(int[] arr, int start, int end)
+	{
+		// Stop if we have reached the end of the array
+		if (end == arr.length)
+			return;
+		// Increment the end point and start from 0
+		else if (start > end)
+			printSubArrays(arr, 0, end + 1);
+		// Print the subarray and increment the starting
+		// point
+		else {
+			System.out.print("[");
+			for (int i = start; i < end; i++)
+				System.out.print(arr[i] + ", ");
+			System.out.println(arr[end] + "]");
+			printSubArrays(arr, start + 1, end);
+		}
+		return;
+	}
+
+	public static void main(String args[])
+	{
+		int[] arr = { 1, 2, 3 };
+		printSubArrays(arr, 0, 0);
+	}
+}
+/*
+output: 
+[1]
+[1, 2]
+[2]
+[1, 2, 3]
+[2, 3]
+[3]
+
+Time Complexity: O(2^n)
+Auxiliary Space: O(2^n)
+*/
+
+/***********************************************/
+
+// https://www.geeksforgeeks.org/subarraysubstring-vs-subsequence-and-programs-to-generate-them/
+
+/*
+generate subarrays
+formula: n*(n+1)/2
+*/
+class Test
+{
+	static int arr[] = new int[]{1, 2, 3, 4};
+	
+	// Prints all subarrays in arr[0..n-1]
+	static void subArray( int n)
+	{
+		// Pick starting point
+		for (int i=0; i <n; i++)
+		{
+			// Pick ending point
+			for (int j=i; j<n; j++)
+			{
+				// Print subarray between current starting
+				// and ending points
+				for (int k=i; k<=j; k++)
+					System.out.print(arr[k]+" ");
+			}
+		}
+	}
+	
+	// Driver method to test the above function
+	public static void main(String[] args)
+	{
+		System.out.println("All Non-empty Subarrays");
+		subArray(arr.length);
+		
+	}
+}
+/*
+output: 
+
+All Non-empty Subarrays
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+2 
+2 3 
+2 3 4 
+3 
+3 4 
+4
+
+Time Complexity: 0(n^3)
+Space Complexity: 0(1)
+*/
+
+/*
+generate subsequences
+formula: (2**n -1)
+
+use algorithm to generate power set.
+https://www.geeksforgeeks.org/power-set/
+https://www.geeksforgeeks.org/finding-all-subsets-of-a-given-set-in-java/
+*/
+import java.math.BigInteger;
+
+class Test
+{
+	static int arr[] = new int[]{1, 2, 3, 4};
+	
+	static void printSubsequences(int n)
+	{
+		/* Number of subsequences is (2**n -1)*/
+		int opsize = (int)Math.pow(2, n);
+	
+		/* Run from counter 000..1 to 111..1*/
+		for (int counter = 1; counter < opsize; counter++)
+		{
+			for (int j = 0; j < n; j++)
+			{
+				/* Check if jth bit in the counter is set
+					If set then print jth element from arr[] */
+		
+				if (BigInteger.valueOf(counter).testBit(j))
+					System.out.print(arr[j]+" ");
+			}
+			System.out.println();
+		}
+	}
+	
+	// Driver method to test the above function
+	public static void main(String[] args)
+	{
+		System.out.println("All Non-empty Subsequences");
+		printSubsequences(arr.length);
+	}
+}
+/*
+output: 
+
+All Non-empty Subsequences
+1 
+2 
+1 2 
+3 
+1 3 
+2 3 
+1 2 3 
+4 
+1 4 
+2 4 
+1 2 4 
+3 4 
+1 3 4 
+2 3 4 
+1 2 3 4
+
+Time Complexity: 0(n*(2^n))
+Space Complexity: 0(1)
+*/

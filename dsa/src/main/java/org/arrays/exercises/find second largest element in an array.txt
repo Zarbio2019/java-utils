@@ -1,0 +1,224 @@
+// https://www.geeksforgeeks.org/find-second-largest-element-array/
+
+/*
+Find Second largest element in an array
+
+Efficient Approach: recommended
+Find the second largest element in a single traversal. 
+*/
+import java.io.*;
+import java.util.Arrays;
+
+class GFG {
+
+	/* Function to print the second largest
+	elements */
+	public static void print2largest(int arr[],
+									int arr_size)
+	{
+		int i, first, second;
+
+		/* There should be atleast two elements */
+		if (arr_size < 2) {
+			System.out.print(" Invalid Input ");
+			return;
+		}
+
+		first = second = Integer.MIN_VALUE;
+		for (i = 0; i < arr_size; i++) {
+			/* If current element is greater than
+			first then update both first and second */
+			if (arr[i] > first) {
+				second = first;
+				first = arr[i];
+			}
+
+			/* If arr[i] is in between first and
+			second then update second */
+			else if (arr[i] > second && arr[i] != first)
+				second = arr[i];
+		}
+
+		if (second == Integer.MIN_VALUE)
+			System.out.print("There is no second largest"
+							+ " element\n");
+		else
+			System.out.print("The second largest element"
+							+ " is " + second);
+	}
+
+	/* Driver program to test above function */
+	public static void main(String[] args)
+	{
+		int arr[] = { 12, 35, 1, 10, 34, 1 };
+		int n = arr.length;
+		print2largest(arr, n);
+	}
+}
+/*
+output:
+The second largest element is 34
+
+Time Complexity: O(n). Only one traversal of the array is needed.
+Auxiliary space: O(1). As no extra space is required.
+*/
+
+/***********************************************/
+
+/*
+Naive approach:
+
+The idea is to sort the array in descending order and then return the second element which is not equal to the largest element from the sorted array.
+*/
+import java.util.*;
+class GFG{
+
+	// Function to print the
+	// second largest elements
+	static void print2largest(int arr[],
+							int arr_size)
+	{
+		int i, first, second;
+
+		// There should be
+		// atleast two elements
+		if (arr_size < 2)
+		{
+			System.out.printf(" Invalid Input ");
+			return;
+		}
+
+		// Sort the array
+		Arrays.sort(arr);
+
+		// Start from second last element
+		// as the largest element is at last
+		for (i = arr_size - 2; i >= 0; i--)
+		{
+			// If the element is not
+			// equal to largest element
+			if (arr[i] != arr[arr_size - 1])
+			{
+				System.out.printf("The second largest " +
+								"element is %d\n", arr[i]);
+			return;
+			}
+		}
+
+		System.out.printf("There is no second " +
+							"largest element\n");
+	}
+
+	// Driver code
+	public static void main(String[] args)
+	{
+		int arr[] = {12, 35, 1, 10, 34, 1};
+		int n = arr.length;
+		print2largest(arr, n);
+	}
+}
+/*
+output:
+The second largest element is 34
+
+Time Complexity: O(n log n). The time required to sort the array is O(n log n).
+Auxiliary space: O(1). As no extra space is required.
+*/
+
+/***********************************************/
+
+/*
+Much More Efficient and Easy to Understand:
+
+The Approach:
+Here,we use set for avoiding duplicates and we just return the second last element as we know set store in sorted order
+*/
+import java.util.*;
+
+public class Main {
+	public static void main(String[] args) {
+		//given ArrayList
+		List<Integer> v = new ArrayList<>(Arrays.asList(12, 35, 1, 10, 34, 1));
+		//inserting all the elements from ArrayList v to TreeSet s.
+		Set<Integer> s = new TreeSet<>(v);
+		//clear the ArrayList.
+		v.clear();
+		//insert all elements back in ArrayList in sorted order.
+		for (int value : s) {
+			v.add(value);
+		}
+		//the size of updated ArrayList.
+		int n = v.size();
+		//printing the second largest element in ArrayList.
+		System.out.print("The Second Largest Element in ArrayList is: ");
+		System.out.println(v.get(n-2));
+	}
+}
+/*
+output:
+The Second Largest Element in Vector is: 34
+
+Time Complexity: O(N log N). The Time Required To Insert Into Set And Traversing It O(N log N).
+Auxiliary space: O(N). As Required For Set.
+*/
+
+/***********************************************/
+
+/*
+Efficient Approach: 
+The approach is to traverse the array twice. In the first traversal find the maximum element.  In the second traversal find the greatest element in the remaining excluding the previous greatest.
+*/
+import java.io.*;
+
+class GFG{
+
+	// Function to print the second largest elements
+	static void print2largest(int arr[], int arr_size)
+	{
+		int i, first, second;
+
+		// There should be atleast two elements
+		if (arr_size < 2)
+		{
+			System.out.printf(" Invalid Input ");
+			return;
+		}
+
+		int largest = second = Integer.MIN_VALUE;
+
+		// Find the largest element
+		for(i = 0; i < arr_size; i++)
+		{
+			largest = Math.max(largest, arr[i]);
+		}
+
+		// Find the second largest element
+		for(i = 0; i < arr_size; i++)
+		{
+			if (arr[i] != largest)
+				second = Math.max(second, arr[i]);
+		}
+		if (second == Integer.MIN_VALUE)
+			System.out.printf("There is no second " +
+							"largest element\n");
+		else
+			System.out.printf("The second largest " +
+							"element is %d\n", second);
+	}
+
+	// Driver code
+	public static void main(String[] args)
+	{
+		int arr[] = { 12, 35, 1, 10, 34, 1 };
+		int n = arr.length;
+		
+		print2largest(arr, n);
+	}
+}
+/*
+output:
+Second largest : 34
+
+Time Complexity: O(n). Two traversals of the array are needed.
+Auxiliary space: O(1). As no extra space is required.
+*/
