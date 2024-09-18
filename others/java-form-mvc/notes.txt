@@ -1,0 +1,11 @@
+1_Introducción Java y MySQL
+https://www.youtube.com/watch?v=0a_Y2itvK_I
+
+2_Conexión Java a BD MySQL-Workbench
+https://www.youtube.com/watch?v=nKbonwin7Zg
+
+3_CRUD en Java y MySQL
+https://www.youtube.com/watch?v=65WgYJ5neMM
+
+4_Java Form MVC
+https://www.youtube.com/watch?v=GGOwrMKBKeY

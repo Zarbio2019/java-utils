@@ -1,0 +1,3 @@
+https://www.edureka.co/blog/logger-in-java
+https://living-sun.com/es/java/485050-log4j-doesn39t-print-to-console-java-logging-log4j2.html
+https://springframework.guru/log4j-2-configuration-using-properties-file/
