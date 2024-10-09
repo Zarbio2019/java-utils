@@ -5,7 +5,7 @@ package org.factory.courseWebsite;
  * https://www.youtube.com/watch?v=s3Wr5_tsODs
  * 
  * 1. Demo
- * Demo.java
+ * MainApp.java
  * 
  * 2. Factory class
  * CourseFactory.java

@@ -12,5 +12,7 @@
     <mapping directory="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_database_automatic_payment" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_notifications_receipts" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone" vcs="Git" />
   </component>
 </project>

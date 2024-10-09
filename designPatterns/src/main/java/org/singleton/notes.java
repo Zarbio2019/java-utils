@@ -53,7 +53,7 @@ class Singleton2 {
 			
 				result = instance;
 				
-				// ensure 2 threads are no initilizing the instance at the same time
+				// ensure 2 threads are no initializing the instance at the same time
 				if(result == null) {
 					instance = result = new Singleton2(data);
 				}

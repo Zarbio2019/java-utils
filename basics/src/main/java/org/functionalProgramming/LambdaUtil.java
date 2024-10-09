@@ -64,7 +64,7 @@ public class LambdaUtil {
 			   .forEach(System.out::println); // Consumer
 		
 		Predicate<Integer> isEvenPredicate = x -> x%2==0;
-			// if the condition, to test, one input, one output boolean, return true/false
+			// is the condition, to test, one input, one output boolean, return true/false
 			// boolean test(T t);
 		
 		Function<Integer, Integer> squareFunction = x -> x * x;

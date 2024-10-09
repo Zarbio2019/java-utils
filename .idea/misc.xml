@@ -21,6 +21,7 @@
         <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/pare-pagos-automaticos-recaudos/onl_update_automatic_payment/pom.xml" />
         <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_notifications_receipts/pom.xml" />
         <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_database_automatic_payment/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring/projects/dependency-injection/xml-based-configuration/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -99,6 +100,7 @@
         <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/libraries/pom.xml" />
         <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/transactions/PPGSTP20-01-PE/pom.xml" />
         <option value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_modify_partial_proposal_participant/artifact/transactions/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring/projects/dependency-injection/xml-based-configuration/pom.xml" />
       </set>
     </option>
   </component>

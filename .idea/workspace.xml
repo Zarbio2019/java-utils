@@ -5,9 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e911f722-5da4-47e2-8ed7-65f567d0602d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_list_proposal_participants/artifact/libraries/PPGSRP21IMPL/src/main/java/com/bbva/ppgs/lib/rp21/validator/impl/ParticipantsValidators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_list_proposal_participants/artifact/libraries/PPGSRP21IMPL/src/main/java/com/bbva/ppgs/lib/rp21/validator/impl/ParticipantsValidators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_notifications_receipts/PRCHRNTR/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_notifications_receipts/PRCHRNTR/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_notifications_receipts/PRCHRNTRIMPL/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_notifications_receipts/PRCHRNTRIMPL/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/src/main/java/org/functionalProgramming/LambdaUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/basics/src/main/java/org/functionalProgramming/LambdaUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPatterns/src/main/java/org/abstractFactory/shapes/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPatterns/src/main/java/org/abstractFactory/shapes/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPatterns/src/main/java/org/facade/shapes/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPatterns/src/main/java/org/facade/shapes/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPatterns/src/main/java/org/factory/courseWebsite/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPatterns/src/main/java/org/factory/courseWebsite/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPatterns/src/main/java/org/mvc/student/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPatterns/src/main/java/org/mvc/student/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPatterns/src/main/java/org/singleton/notes.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPatterns/src/main/java/org/singleton/notes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-utils.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/TestLifeCyclePerClassDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/TestLifeCyclePerClassDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/src/com/appsdeveloperblog/io/UsersDatabaseMapImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/src/com/appsdeveloperblog/io/UsersDatabaseMapImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/src/com/appsdeveloperblog/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/src/com/appsdeveloperblog/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/test/com/appsdeveloperblog/service/UserServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/test/com/appsdeveloperblog/service/UserServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/main/java/com/programming/techie/springredditclone/exceptions/SpringRedditException.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/main/java/com/programming/techie/springredditclone/exceptions/SpringRedditException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/controller/PostControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/controller/PostControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/repository/PostRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/repository/PostRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/repository/UserRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/repository/UserRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/repository/UserRepositoryTestEmbedded.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/repository/UserRepositoryTestEmbedded.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/service/CommentServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/service/CommentServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/service/PostServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/service/PostServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +51,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_list_proposal_participants" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -51,7 +77,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/ROMULO/JOBS/TCS/BBVA/APX/source/ppan-preagreements/lib_proposals_participants&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ROMULO/PROJECTS/tech/backend/java/spring/projects/dependency-injection/xml-based-configuration&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -73,7 +99,20 @@
       <recent name="org.utils" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PRCHRDA1Test">
+  <component name="RunManager" selected="Application.MainApp">
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.singleton.lazyLoading.MainApp" />
+      <module name="designPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.singleton.lazyLoading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PARER003Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PARER003IMPL" />
       <extension name="coverage">
@@ -101,21 +140,6 @@
       <option name="MAIN_CLASS_NAME" value="com.bbva.pare.lib.r003.PARER003Test" />
       <option name="METHOD_NAME" value="executeGetAffiliationData_thenEmpty" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PPGSRP21ParentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PPGSRP21IMPL" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bbva.ppgs.lib.rp21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bbva.ppgs.lib.rp21" />
-      <option name="MAIN_CLASS_NAME" value="com.bbva.ppgs.lib.rp21.PPGSRP21ParentTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -153,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainApp" />
         <item itemvalue="JUnit.PRCHRDA1Test" />
         <item itemvalue="JUnit.PRCHRDA1Test.executeNoUpdateDesaffiliationCatch" />
         <item itemvalue="JUnit.PARER003Test.executeGetAffiliationData_thenEmpty" />
         <item itemvalue="JUnit.PARER003Test" />
-        <item itemvalue="JUnit.PPGSRP21ParentTest" />
       </list>
     </recent_temporary>
   </component>

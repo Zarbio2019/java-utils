@@ -32,10 +32,8 @@ package org.abstractFactory.shapes;
  * FactoryProducer.java
  * 
  * 6. Use the FactoryProducer to get AbstractFactory in order to get factories of concrete classes by passing an information such as type.
- * AbstractFactoryPatternDemo.java
- * 
- * 7. Use the Factory to get object of concrete class by passing an information such as type.
- * MainApp.java
+ * Use the Factory to get object of concrete class by passing an information such as type.
+ * AbstractFactoryPatternDemo.java = MainApp.java
  */
 public class MainApp {
 	public static void main(String[] args) {
