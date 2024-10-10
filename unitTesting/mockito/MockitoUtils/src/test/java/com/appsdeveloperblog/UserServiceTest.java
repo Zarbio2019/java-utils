@@ -142,7 +142,6 @@ public class UserServiceTest {
         // Assert
         verify(emailVerificationService, times(1)).
                 scheduleEmailConfirmation(any(User.class));
-
     }
 
     @DisplayName("Schedule Email Confirmation is executed")
