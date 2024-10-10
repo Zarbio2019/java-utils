@@ -104,6 +104,5 @@ public class MapUtil {
 //		Map<String, Object> rawParticipantMap = MapUtils.getMap(rawData, ParticipantsFields.PARENT);
 
 //		boolean result = MapValidatorUtils.booleanNotNull(rawData, ResultStatusOperation.RESULT_OPERATION, BusinessError.WRONG_RESULT_OPERATION);
-
 	}	
 }

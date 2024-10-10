@@ -8,17 +8,9 @@
       <change beforePath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_list_proposal_participants/artifact/libraries/PPGSRP21IMPL/src/main/java/com/bbva/ppgs/lib/rp21/validator/impl/ParticipantsValidators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/ppgs-app de contratacion digital activos/onl_list_proposal_participants/artifact/libraries/PPGSRP21IMPL/src/main/java/com/bbva/ppgs/lib/rp21/validator/impl/ParticipantsValidators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_notifications_receipts/PRCHRNTR/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_notifications_receipts/PRCHRNTR/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_notifications_receipts/PRCHRNTRIMPL/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../JOBS/TCS/BBVA/APX/source/prch-recaudos/lib_notifications_receipts/PRCHRNTRIMPL/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/src/main/java/org/functionalProgramming/LambdaUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/basics/src/main/java/org/functionalProgramming/LambdaUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPatterns/src/main/java/org/abstractFactory/shapes/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPatterns/src/main/java/org/abstractFactory/shapes/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPatterns/src/main/java/org/facade/shapes/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPatterns/src/main/java/org/facade/shapes/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPatterns/src/main/java/org/factory/courseWebsite/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPatterns/src/main/java/org/factory/courseWebsite/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPatterns/src/main/java/org/mvc/student/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPatterns/src/main/java/org/mvc/student/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPatterns/src/main/java/org/singleton/notes.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPatterns/src/main/java/org/singleton/notes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-utils.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/src/main/java/org/MapUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/src/main/java/org/MapUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/src/main/java/org/algorithms/stateMachine/IsNumberValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/src/main/java/org/algorithms/stateMachine/IsNumberValid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/TestLifeCyclePerClassDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/TestLifeCyclePerClassDemo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/src/com/appsdeveloperblog/io/UsersDatabaseMapImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/junit/TestLifeCyclePerClassDemo/src/com/appsdeveloperblog/io/UsersDatabaseMapImpl.java" afterDir="false" />
@@ -34,6 +26,7 @@
       <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/repository/UserRepositoryTestEmbedded.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/repository/UserRepositoryTestEmbedded.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/service/CommentServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/service/CommentServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/service/PostServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/springboot/spring-boot-testing-reddit-clone/src/test/java/com/programming/techie/springredditclone/service/PostServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTesting/utils/JUnitMockitoUtils/notes.java" beforeDir="false" afterPath="$PROJECT_DIR$/unitTesting/utils/JUnitMockitoUtils/notes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,17 +66,17 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/ROMULO/PROJECTS/tech/backend/java/spring/projects/dependency-injection/xml-based-configuration&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/ROMULO/PROJECTS/tech/backend/java/spring/projects/dependency-injection/xml-based-configuration",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ROMULO\JOBS\TCS\BBVA\APX\source\ppgs-app de contratacion digital activos\dto_proposal_participants\src\main\java\com\bbva\ppgs\dto\proposalparticipants" />

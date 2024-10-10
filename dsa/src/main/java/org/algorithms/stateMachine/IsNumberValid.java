@@ -7,7 +7,7 @@ package org.algorithms.stateMachine;
 
 public class IsNumberValid {
 	  
-	enum STATE { START, INTEGER, DECIMAL, UNKNOWN, AFTER_DECIMAL};
+	enum STATE { START, INTEGER, DECIMAL, UNKNOWN, AFTER_DECIMAL };
 	 
     /**
      * Time Complexity: O(N)

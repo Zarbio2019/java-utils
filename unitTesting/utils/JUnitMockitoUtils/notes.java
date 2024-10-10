@@ -8,7 +8,7 @@ https://junit.org/junit5/docs/snapshot/user-guide/ **
     Running Tests in IDE
 
 * JUnit 5 vs JUnit 4
-Assertions in JUnit 4 are in org.junit.Assert class, but in  JUnit 5 are in org.junit.jupiter.api.Assertions.
+Assertions in JUnit 4 are in org.junit.Assert class, but in JUnit 5 are in org.junit.jupiter.api.Assertions.
 
 - JUnit 5:
 It is recommended to omit the public modifier for test classes, test methods, and lifecycle methods.
