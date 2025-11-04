@@ -1,0 +1,116 @@
+/* Factory Method Pattern */
+The Factory Method Pattern Explained and Implemented in Java | Creational Design Patterns | Geekific
+https://www.youtube.com/watch?v=EdFq_JIThqM&list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc&index=4
+
+/* sample 1: without using Factory Method Pattern.
+Initial statement
+factory-method-pattern-sample1.png
+*/
+// the method we are implementing here can only return a single object. 
+public class Restaurant {
+	public ???? orderBurger(String request) {
+		// open for modification
+		if("BEEF".equals(request)) {
+			BeefBurger burger = new BeefBurger();
+			burger.prepare();
+			return burger;
+			
+		}else if ("VEGGIE".equals(request)) {
+			VeggieBurger burger = new VeggieBurger();
+			burger.prepare();
+			return burger;
+		}
+	}
+}
+
+/* sample 2: without using Factory Method Pattern.
+using a base method or interface Burger.
+factory-method-pattern-sample2.png
+*/
+public class Restaurant {
+	public Burger orderBurger(String request) {
+		
+		// still open for modification
+		Burger burger = null;
+		if("BEEF".equals(request)) {
+			burger = new BeefBurger();			
+		}else if ("VEGGIE".equals(request)) {
+			burger = new VeggieBurger();
+		} else if ("CHCIKEN".equals(request)) {
+			burger = new ChickenBurger();
+		}
+		burger.prepare();
+		return burger;
+	}
+}
+
+/* sample 3: using Factory Method Pattern, but this is not fully completed.
+factory-method-pattern-sample3.png
+factory-method-pattern-sample3a.png
+*/
+public class Restaurant {
+	public Burger orderBurger(String request) {
+		SimpleBurgerFactory factory = new SimpleBurgerFactory();
+		Burger burger = factory.createBurger(request);
+		burger.prepare();
+		return burger;
+	}
+}
+
+// this is a class whose sole responsability is creating burgers, it's a burger factory
+public class SimpleBurgerFactory {
+	public Burger createBurger(String request) {
+		
+		// still open for modification,
+		// when we add more recipes to our menu, we will have to open this method and change it.
+		Burger burger = null;
+		if("BEEF".equals(request)) {
+			burger = new BeefBurger();
+		}else if ("VEGGIE".equals(request)) {
+			burger = new VeggieBurger();
+		}
+		return burger;
+	}
+}
+
+/* sample 4
+Implemented: MainApp.java
+*/
+
+/* sample 5:
+then your burger business boomed and you decided to open another restaurant.
+This restaurant will deliver the same burgers you have. However this one will
+prepare them the Italian way. Same products, different recipes.
+
+What about the Delivery application and Factory Method design pattern to use.
+In that case is better use: Abstract Factory Pattern.
+*/
+
+// Without Abstract Factory Pattern
+public class BeefBurgerRestaurant extends Restaurant {
+	@Override
+	// still open for modification
+	public Burger createBurger(String request) {
+		Burger burger = null;
+		if("ITALIAN".equals(request)) {
+			burger = new ItalianBeefBurger();
+		} else {
+			burger = new AmericanBeefBurger();
+		}
+		return burger;
+	}
+}
+
+public class VeggieBurgerRestaurant extends Restaurant {
+	@Override
+	// still open for modification
+	public Burger createBurger(String request) {
+		Burger burger = null;
+		if("ITALIAN".equals(request)) {
+			burger = new ItalianVeggieBurger();
+		} else {
+			burger = new AmericanVeggieBurger();
+		}
+		return burger;
+	}
+}
