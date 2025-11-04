@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:osgi="http://www.springframework.org/schema/osgi" xmlns:util="http://www.springframework.org/schema/util" xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/osgi http://www.springframework.org/schema/osgi/spring-osgi.xsd http://www.springframework.org/schema/util
+						   http://www.springframework.org/schema/util/spring-util.xsd">
+
+    <bean id="dogImpl" class="org.strategy.DogImpl">
+    </bean>
+    <bean id="catImpl" class="org.strategy.CatImpl">
+    </bean>
+
+    <bean id="mainContext" class="org.strategy.MainApp">
+        <property name="animalByType" ref="animalByType"/>
+    </bean>
+
+    <util:map id="animalByType" map-class="java.util.HashMap"
+              key-type="org.strategy.AnimalStrategyType"
+              value-type="org.strategy.AnimalStrategy">
+        <entry key="DOG">
+            <ref bean="DogImpl"/>
+        </entry>
+        <entry key="CAT">
+            <ref bean="CatImpl"/>
+        </entry>
+    </util:map>
+</beans>
