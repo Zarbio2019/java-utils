@@ -2,7 +2,8 @@ package org.classes;
 
 import org.classes.Outer.Inner;
 
-/* refs:
+/*
+Abstract Class In Java Tutorial #79
 https://www.youtube.com/watch?v=52frlN8webg
  */
 public class Classes {
@@ -90,7 +91,6 @@ interface Animal {
 	void poop();
 }
 
-// Interface
 interface Mammal extends Animal {
 }
 
@@ -196,8 +196,7 @@ abstract class ExtraFeatures extends Feature {
 
 /***************************************/
 
-/**
-* With Serializable
+/* With Serializable
 
 public class ClassName implements Serializable {
 	private static final long serialVersionUID = 7654064882800343638L;
